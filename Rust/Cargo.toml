@@ -1,0 +1,6 @@
+[workspace]
+
+members = [
+    "stop-gninnips-my-sdrow",
+    "find-the-divisors"
+]
