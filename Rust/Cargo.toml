@@ -8,5 +8,11 @@ members = [
     "mumbling",
     "string-ends-with",
     "sum-of-digits-digital-root",
-    "counting-duplicates"
+    "counting-duplicates",
+    "build-tower",
+    "break-camelcase",
+    "valid-parentheses",
+    "rot-13",
+    "find-the-parity-outlier",
+    "build-a-pile-of-cubes"
 ]
