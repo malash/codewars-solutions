@@ -2,5 +2,11 @@
 
 members = [
     "stop-gninnips-my-sdrow",
-    "find-the-divisors"
+    "find-the-divisors",
+    "square-every-digit",
+    "regex-validate-pin-code",
+    "mumbling",
+    "string-ends-with",
+    "sum-of-digits-digital-root",
+    "counting-duplicates"
 ]
